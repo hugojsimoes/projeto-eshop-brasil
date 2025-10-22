@@ -23,9 +23,3 @@ Estrutura do Repositório
 - requirements.txt
 - app.py
 - exemplos/ (prints das funcionalidades)
-
-Como Executar
-1. Clone o repositório: git clone https://github.com/hugojsimoes/coldspace
-2. Navegue até a pasta do projeto: cd eshop_app
-3. Execute com Docker: docker-compose up
-4. Acesse o app em: http://localhost:8501
